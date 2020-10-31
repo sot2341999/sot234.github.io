@@ -1,10 +1,8 @@
-# Site settings
 title: Sot
 email: sot234@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Trang web vui vẻ, không qoại.
-baseurl: "/sot234" # the subpath of your site, e.g. /blog/
-url: "http://sot234.github.io" # the base hostname & protocol for your site
+description: Trang web vui vẻ, không qoại.
+baseurl: "/sot234" 
+url: "http://sot234.github.io" 
 twitter_username: sot234.github.io
 github_username:  sot234.github.io
 
